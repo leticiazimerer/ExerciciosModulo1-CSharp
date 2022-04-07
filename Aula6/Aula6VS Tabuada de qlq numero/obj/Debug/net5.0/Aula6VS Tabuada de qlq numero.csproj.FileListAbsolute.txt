@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula6\Aula6VS Tabuada de qlq numero\bin\Debug\net5.0\Aula6VS Tabuada de qlq numero.exe
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula6\Aula6VS Tabuada de qlq numero\bin\Debug\net5.0\Aula6VS Tabuada de qlq numero.deps.json
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula6\Aula6VS Tabuada de qlq numero\bin\Debug\net5.0\Aula6VS Tabuada de qlq numero.runtimeconfig.json
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula6\Aula6VS Tabuada de qlq numero\bin\Debug\net5.0\Aula6VS Tabuada de qlq numero.runtimeconfig.dev.json
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula6\Aula6VS Tabuada de qlq numero\bin\Debug\net5.0\Aula6VS Tabuada de qlq numero.dll
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula6\Aula6VS Tabuada de qlq numero\bin\Debug\net5.0\Aula6VS Tabuada de qlq numero.pdb
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula6\Aula6VS Tabuada de qlq numero\obj\Debug\net5.0\Aula6VS Tabuada de qlq numero.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula6\Aula6VS Tabuada de qlq numero\obj\Debug\net5.0\Aula6VS Tabuada de qlq numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula6\Aula6VS Tabuada de qlq numero\obj\Debug\net5.0\Aula6VS Tabuada de qlq numero.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula6\Aula6VS Tabuada de qlq numero\obj\Debug\net5.0\Aula6VS Tabuada de qlq numero.AssemblyInfo.cs
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula6\Aula6VS Tabuada de qlq numero\obj\Debug\net5.0\Aula6VS Tabuada de qlq numero.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula6\Aula6VS Tabuada de qlq numero\obj\Debug\net5.0\Aula6VS Tabuada de qlq numero.dll
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula6\Aula6VS Tabuada de qlq numero\obj\Debug\net5.0\refint\Aula6VS Tabuada de qlq numero.dll
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula6\Aula6VS Tabuada de qlq numero\obj\Debug\net5.0\Aula6VS Tabuada de qlq numero.pdb
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula6\Aula6VS Tabuada de qlq numero\obj\Debug\net5.0\Aula6VS Tabuada de qlq numero.genruntimeconfig.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula6\Aula6VS Tabuada de qlq numero\obj\Debug\net5.0\ref\Aula6VS Tabuada de qlq numero.dll
