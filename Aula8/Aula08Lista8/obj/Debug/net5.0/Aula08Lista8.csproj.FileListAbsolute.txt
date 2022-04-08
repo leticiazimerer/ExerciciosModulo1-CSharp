@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula8\Aula08Lista8\bin\Debug\net5.0\Aula08Lista8.exe
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula8\Aula08Lista8\bin\Debug\net5.0\Aula08Lista8.deps.json
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula8\Aula08Lista8\bin\Debug\net5.0\Aula08Lista8.runtimeconfig.json
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula8\Aula08Lista8\bin\Debug\net5.0\Aula08Lista8.runtimeconfig.dev.json
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula8\Aula08Lista8\bin\Debug\net5.0\Aula08Lista8.dll
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula8\Aula08Lista8\bin\Debug\net5.0\Aula08Lista8.pdb
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula8\Aula08Lista8\obj\Debug\net5.0\Aula08Lista8.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula8\Aula08Lista8\obj\Debug\net5.0\Aula08Lista8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula8\Aula08Lista8\obj\Debug\net5.0\Aula08Lista8.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula8\Aula08Lista8\obj\Debug\net5.0\Aula08Lista8.AssemblyInfo.cs
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula8\Aula08Lista8\obj\Debug\net5.0\Aula08Lista8.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula8\Aula08Lista8\obj\Debug\net5.0\Aula08Lista8.dll
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula8\Aula08Lista8\obj\Debug\net5.0\refint\Aula08Lista8.dll
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula8\Aula08Lista8\obj\Debug\net5.0\Aula08Lista8.pdb
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula8\Aula08Lista8\obj\Debug\net5.0\Aula08Lista8.genruntimeconfig.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula8\Aula08Lista8\obj\Debug\net5.0\ref\Aula08Lista8.dll
