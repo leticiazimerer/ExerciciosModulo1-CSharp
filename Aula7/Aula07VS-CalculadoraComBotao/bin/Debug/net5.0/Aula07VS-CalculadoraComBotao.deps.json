@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aula07VS-CalculadoraComBotao/1.0.0": {
+        "runtime": {
+          "Aula07VS-CalculadoraComBotao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula07VS-CalculadoraComBotao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

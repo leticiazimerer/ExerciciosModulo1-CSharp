@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula7\Aula07VS-CalculadoraComBotao\bin\Debug\net5.0\Aula07VS-CalculadoraComBotao.exe
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula7\Aula07VS-CalculadoraComBotao\bin\Debug\net5.0\Aula07VS-CalculadoraComBotao.deps.json
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula7\Aula07VS-CalculadoraComBotao\bin\Debug\net5.0\Aula07VS-CalculadoraComBotao.runtimeconfig.json
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula7\Aula07VS-CalculadoraComBotao\bin\Debug\net5.0\Aula07VS-CalculadoraComBotao.runtimeconfig.dev.json
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula7\Aula07VS-CalculadoraComBotao\bin\Debug\net5.0\Aula07VS-CalculadoraComBotao.dll
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula7\Aula07VS-CalculadoraComBotao\bin\Debug\net5.0\Aula07VS-CalculadoraComBotao.pdb
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula7\Aula07VS-CalculadoraComBotao\obj\Debug\net5.0\Aula07VS-CalculadoraComBotao.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula7\Aula07VS-CalculadoraComBotao\obj\Debug\net5.0\Aula07VS-CalculadoraComBotao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula7\Aula07VS-CalculadoraComBotao\obj\Debug\net5.0\Aula07VS-CalculadoraComBotao.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula7\Aula07VS-CalculadoraComBotao\obj\Debug\net5.0\Aula07VS-CalculadoraComBotao.AssemblyInfo.cs
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula7\Aula07VS-CalculadoraComBotao\obj\Debug\net5.0\Aula07VS-CalculadoraComBotao.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula7\Aula07VS-CalculadoraComBotao\obj\Debug\net5.0\Aula07VS-CalculadoraComBotao.dll
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula7\Aula07VS-CalculadoraComBotao\obj\Debug\net5.0\refint\Aula07VS-CalculadoraComBotao.dll
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula7\Aula07VS-CalculadoraComBotao\obj\Debug\net5.0\Aula07VS-CalculadoraComBotao.pdb
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula7\Aula07VS-CalculadoraComBotao\obj\Debug\net5.0\Aula07VS-CalculadoraComBotao.genruntimeconfig.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula7\Aula07VS-CalculadoraComBotao\obj\Debug\net5.0\ref\Aula07VS-CalculadoraComBotao.dll
