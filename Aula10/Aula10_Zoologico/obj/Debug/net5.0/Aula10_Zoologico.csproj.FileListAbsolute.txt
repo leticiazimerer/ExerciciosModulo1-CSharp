@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Zoologico\bin\Debug\net5.0\Aula10_Zoologico.exe
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Zoologico\bin\Debug\net5.0\Aula10_Zoologico.deps.json
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Zoologico\bin\Debug\net5.0\Aula10_Zoologico.runtimeconfig.json
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Zoologico\bin\Debug\net5.0\Aula10_Zoologico.runtimeconfig.dev.json
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Zoologico\bin\Debug\net5.0\Aula10_Zoologico.dll
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Zoologico\bin\Debug\net5.0\Aula10_Zoologico.pdb
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Zoologico\obj\Debug\net5.0\Aula10_Zoologico.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Zoologico\obj\Debug\net5.0\Aula10_Zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Zoologico\obj\Debug\net5.0\Aula10_Zoologico.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Zoologico\obj\Debug\net5.0\Aula10_Zoologico.AssemblyInfo.cs
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Zoologico\obj\Debug\net5.0\Aula10_Zoologico.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Zoologico\obj\Debug\net5.0\Aula10_Zoologico.dll
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Zoologico\obj\Debug\net5.0\refint\Aula10_Zoologico.dll
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Zoologico\obj\Debug\net5.0\Aula10_Zoologico.pdb
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Zoologico\obj\Debug\net5.0\Aula10_Zoologico.genruntimeconfig.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Zoologico\obj\Debug\net5.0\ref\Aula10_Zoologico.dll

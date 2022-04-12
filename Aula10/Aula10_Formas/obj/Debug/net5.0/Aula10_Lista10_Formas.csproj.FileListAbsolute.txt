@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Formas\bin\Debug\net5.0\Aula10_Lista10_Formas.exe
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Formas\bin\Debug\net5.0\Aula10_Lista10_Formas.deps.json
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Formas\bin\Debug\net5.0\Aula10_Lista10_Formas.runtimeconfig.json
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Formas\bin\Debug\net5.0\Aula10_Lista10_Formas.runtimeconfig.dev.json
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Formas\bin\Debug\net5.0\Aula10_Lista10_Formas.dll
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Formas\bin\Debug\net5.0\Aula10_Lista10_Formas.pdb
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Formas\obj\Debug\net5.0\Aula10_Lista10_Formas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Formas\obj\Debug\net5.0\Aula10_Lista10_Formas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Formas\obj\Debug\net5.0\Aula10_Lista10_Formas.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Formas\obj\Debug\net5.0\Aula10_Lista10_Formas.AssemblyInfo.cs
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Formas\obj\Debug\net5.0\Aula10_Lista10_Formas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Formas\obj\Debug\net5.0\Aula10_Lista10_Formas.dll
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Formas\obj\Debug\net5.0\refint\Aula10_Lista10_Formas.dll
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Formas\obj\Debug\net5.0\Aula10_Lista10_Formas.pdb
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Formas\obj\Debug\net5.0\Aula10_Lista10_Formas.genruntimeconfig.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\Aula10\Aula10_Formas\obj\Debug\net5.0\ref\Aula10_Lista10_Formas.dll
