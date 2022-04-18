@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\OrientacaoObjetos\01Conceitos\obj\Debug\net6.0\01Conceitos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\OrientacaoObjetos\01Conceitos\obj\Debug\net6.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\OrientacaoObjetos\01Conceitos\obj\Debug\net6.0\01Conceitos.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\OrientacaoObjetos\01Conceitos\obj\Debug\net6.0\01Conceitos.AssemblyInfo.cs
+C:\Users\User\Desktop\Generation\Exerciciosmodulo1\C#\OrientacaoObjetos\01Conceitos\obj\Debug\net6.0\01Conceitos.csproj.CoreCompileInputs.cache
